@@ -29,21 +29,12 @@ Hi, I'm a recent Computer Science graduate with some experience in full-stack de
   <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </p>
+<br />
+
+### Certifications
+![aws-certified-cloud-practitioner(1)](https://github.com/user-attachments/assets/ecb68be6-75f3-4979-8d36-ab42805a919a)
+
 <br/>
 
 
 I have more detailed information about the projects I've worked on and a resume available at [hunterwigal.com](https://hunterwigal.com)
-<!--
-**Hunter-Wigal/Hunter-Wigal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
