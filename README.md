@@ -1,6 +1,6 @@
 ## Hunter Wigal
 
-Hi, I'm a recent Computer Science graduate with some experience in full-stack development. I'm currently pursuing a position in software development so that I can put my skills to good use and contribute something meaningful. I'm very interested in the field of computer science so I'm always trying to learn new things, spanning topics such as web development, game development, and cybersecurity. I'm currently working on a full-stack application utilizing React and Spring Boot that would give shop owners the ability to display their products online and have a way for customers to place online orders.
+Hi, I'm a recent Computer Science graduate with some experience in full-stack development. I'm currently employed at the West Virginia Department of Environmental Protection as a Programmer. I'm very interested in the field of computer science so I'm always trying to learn new things, spanning topics such as web development, game development, and cybersecurity. I'm currently working on a full-stack application utilizing React and Spring Boot that would give shop owners the ability to display their products online and have a way for customers to place online orders.
 
 
 ### Languages
